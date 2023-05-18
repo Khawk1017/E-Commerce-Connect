@@ -26,6 +26,10 @@ The purpose of this app is to provide a simple, yet powerful ecommerce solution 
 
 By using Insomnia to interact with the app, developers can easily test their ecommerce features and debug any issues that arise. The app provides a clear and concise set of REST API endpoints that can be used to perform CRUD operations on ecommerce entities, making it easy to integrate with any frontend or backend application.
 
+## Demo 
+[commerce.webm](https://github.com/Khawk1017/E-Commerce-Connect/assets/120533670/d63066b5-ba31-49e6-9dcc-d6c613a90644)
+
+
 
 ## License
 This project is licensed under the [MIT](https://opensource.org/licenses/MIT) license.
